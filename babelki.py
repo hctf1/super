@@ -10,4 +10,4 @@ for i in range(0, rozmiar):
             skladniki[j], skladniki[j+1] = skladniki[j+1], skladniki[j]
 
 print("Po sortowaniu:", skladniki)
-
+print("say gex")
